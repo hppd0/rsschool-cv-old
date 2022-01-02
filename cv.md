@@ -23,7 +23,9 @@ function smash (words) {
 };
 ```
 
+## My experience
 
+Unfortunately, I have no experience at the moment. But that will change soon :) Also you can see my [CV](https://hppd0.github.io/rsschool-cv/cv)
 
 ## Education studies
 
